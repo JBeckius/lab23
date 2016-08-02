@@ -1,14 +1,14 @@
 {
-  "name": "lab22",
+  "name": "lab23",
   "version": "0.0.1",
-  "description": "Full Stack!",
+  "description": "Heroku launch",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JBeckius/lab22.git"
+    "url": "https://github.com/JBeckius/lab23.git"
   },
   "keywords": [
     "Node",
@@ -17,9 +17,9 @@
   "author": "Best Group",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JBeckius/lab22/issues"
+    "url": "https://github.com/JBeckius/lab23/issues"
   },
-  "homepage": "https://github.com/JBeckius/lab22",
+  "homepage": "https://github.com/JBeckius/lab23",
   "dependencies": {
     "angular": "^1.5.8",
     "express": "^4.14.0"
