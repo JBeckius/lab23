@@ -1,0 +1,27 @@
+{
+  "name": "lab22",
+  "version": "0.0.1",
+  "description": "Full Stack!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JBeckius/lab22.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Best Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JBeckius/lab22/issues"
+  },
+  "homepage": "https://github.com/JBeckius/lab22",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0"
+  }
+}
